@@ -1,0 +1,1 @@
+c:\users\eric\documents\visual studio 2015\Projects\SnakeNN\SnakeNN\bin\Debug\SnakeNN.exe.config
